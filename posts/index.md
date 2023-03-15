@@ -1,49 +1,9 @@
-# Barcos
+# Bienvenidos
 
-[[El Seprona]]
+Bienvenidos aventureros y aventureras... Si sabes como sigue ya nos conocemos
 
-# Personajes
+A la izquierda puedes encontrar la estructuración de la campaña.
 
-[[Alika]]
+Espero que lo disfrutes.
 
-[[Taloc]]
-
-[[Errauts]]
-
-[[Vanadar]]
-
-[[Personajes/Alika]]
-
-[[Lilu]]
-
-[[Hedwig]]
-
-
-# Misiones
-
-[[Conseguir la patente de corso]]
-
-# Historia
-
-[[Sesion 1]]
-
-# Localizaciones
-
-[[Golfo de Omgar]]
-
-[[Puerto Bermejo]]
-
-[[La sirena y la Doncella]]
-
-[[Puerto Llano]]
-
-# PNJs
-
-[[Trusilla]]
-
-# Objetos
-
-[[Bestiadex]]
-
-[[Patente de Corso]]
 
