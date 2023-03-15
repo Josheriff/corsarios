@@ -6,7 +6,7 @@
     "dev": "rm -rf graph-data.json && next dev",
     "build": "rm -rf graph-data.json && next build",
     "start": "next start",
-    "deploy": "yarn build && git add . && git commit -m '...' && git push"
+    "deploy": "./sync.sh && yarn build && git add . && git commit -m '...' && git push"
   },
   "dependencies": {
     "@emotion/cache": "latest",
