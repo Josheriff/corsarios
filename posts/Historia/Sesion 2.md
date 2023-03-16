@@ -19,7 +19,6 @@ Entre tanto otros se juegan unas monedas de oro por aquí y por allá. Con sorpr
 
 Antes de volver al barco consultan el tablón de anuncios encontrando una misión de [[Belami]] . Quien entrega un mapa del tesoro y 100 monedas de oro a la capitana a condición que traiga de vuelta un libro que se encuentra en el cofre, todo lo demás será para los corsarios.
 
-
 Todo el mundo cae dormido y nuestros aventureros de alguna forma que no llegan a comprender en el mundo de los sueños acaban todos en [[La tienda de los sueños]] donde [[Errauts]] compra una bolsa del abismo a cambio de un futuro favor. Se queda la pluma de pavo real con la que firma el acuerdo "de recuerdo".
 
 [[Lilu]] evita que [[Xemnas]] le lea la mente concentrandose mucho mucho en algo que la hace sonrojarse...
