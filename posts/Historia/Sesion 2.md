@@ -26,4 +26,3 @@ Mientras tanto [[Taloc]] también llega a un acuerdo para conseguir "lo que ya s
 
 Al despertar los corsarios que guardaron las plumas tienen una pluma de gallina en su lugar.
 
-Tal vez las cosas no sean como parecen, o simplemente las cosas en el mundo de los sueños son distintas...
