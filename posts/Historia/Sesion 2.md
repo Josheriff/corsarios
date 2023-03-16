@@ -8,7 +8,6 @@ Al poco tiempo de las canciones del bardo, la capitana [[Alika]] se sube a una m
 
 Sin tardar demasiado se presentan 10 voluntarios:
 
-
 Quedan con ellos en el barco dentro de unas horas para ver cuantos aguantan una noche en el barco encantado.
 
 Mientras tanto, nuestros corsarios van por la ciudad en busqueda de distintos comercios, dan con una tienda de magia, [[Errauts]] mantiene una incómoda conversación con el dueño respecto al equilibrio de la magia.
@@ -26,3 +25,5 @@ Todo el mundo cae dormido y nuestros aventureros de alguna forma que no llegan a
 Mientras tanto [[Taloc]] también llega a un acuerdo para conseguir "lo que ya sabes que yo quiero".
 
 Al despertar los corsarios que guardaron las plumas tienen una pluma de gallina en su lugar.
+
+Tal vez las cosas no sean como parecen, o simplemente las cosas en el mundo de los sueños son distintas...
