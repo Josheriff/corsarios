@@ -3,9 +3,9 @@ module.exports = {
     webpack: (config) => {
         config.resolve.fallback = {
             fs: false,
-            buffer: false
+            buffer: false,
+            basePath: '/corsarios'
         };
         return config;
-    },
-    basePath: '/corsarios'
+    }    
 }
